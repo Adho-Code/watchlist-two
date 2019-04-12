@@ -1,0 +1,2 @@
+MOVIE_API_KEY = '442cd160d8c0c0d44ada832f8f6fdda0'
+SECRET_KEY="chukula"
